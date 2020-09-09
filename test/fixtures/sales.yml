@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  county: one
+  product: one
+  quantity: 1.5
+  total: 1.5
+
+two:
+  county: two
+  product: two
+  quantity: 1.5
+  total: 1.5
